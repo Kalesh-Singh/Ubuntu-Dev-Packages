@@ -7,6 +7,7 @@ apt_packages=(
     fonts-firacode
     kitty
     llvm
+    neofetch
 )
 
 snap_packages=(
