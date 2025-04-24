@@ -4,6 +4,7 @@ apt_packages=(
     chromium-browser
     clang
     fish
+    fonts-firacode
     kitty
     llvm
 )
